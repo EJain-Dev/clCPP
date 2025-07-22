@@ -1,0 +1,6 @@
+*.hpp text eol=lf diff=cpp
+*.txt text eol=lf
+
+CMakeLists.txt text eol=lf
+
+.* text eol=lf
